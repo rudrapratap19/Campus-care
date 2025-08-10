@@ -56,7 +56,6 @@
 | **Firebase Firestore** | Real-time database |
 | **Firebase Auth** | Authentication system |
 | **Firebase Storage** | File and image storage |
-| **Firebase Cloud Messaging** | Push notifications |
 
 
 ---
