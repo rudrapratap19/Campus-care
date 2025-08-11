@@ -13,6 +13,8 @@
 </div>
 
 ---
+## 📱 Release APK 
+[Download APK (v1.0.0)](https://github.com/rudrapratap19/Campus-care/releases/download/v1.0.0/college_complaint.apk)
 
 ## 📱 Features
 
