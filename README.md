@@ -144,16 +144,16 @@ complaint.status = ComplaintStatus.assigned;
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/login.png" width="200"/></td>
-      <td><img src="screenshots/student-dashboard.png" width="200"/></td>
-      <td><img src="screenshots/submit-complaint.png" width="200"/></td>
-      <td><img src="screenshots/admin-dashboard.png" width="200"/></td>
+      <td><img src="https://github.com/rudrapratap19/Campus-care/blob/main/screenshot/login.jpeg" width="200"/></td>
+      <td><img src="https://github.com/rudrapratap19/Campus-care/blob/main/screenshot/Student%20Dashboard.jpeg" width="200"/></td>
+      <td><img src="https://github.com/rudrapratap19/Campus-care/blob/main/screenshot/2.jpeg" width="200"/></td>
+      <td><img src="https://github.com/rudrapratap19/Campus-care/blob/main/screenshot/Authority%20Dashboard.jpeg" width="200"/></td>
     </tr>
     <tr>
       <td align="center"><em>Login Screen</em></td>
       <td align="center"><em>Student Dashboard</em></td>
       <td align="center"><em>Submit Complaint</em></td>
-      <td align="center"><em>Admin Dashboard</em></td>
+      <td align="center"><em>Authority Dashboard</em></td>
     </tr>
   </table>
 </div>
